@@ -1,1 +1,1 @@
-# LamaiPD.github.io
+# LamaiPD - Lamai, Piyada Damroungsil (ปิยดา ดำรงศิลป์)
