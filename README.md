@@ -1,1 +1,1 @@
-# Lamai, Piyada Damroungsil (ปิยดา ดำรงศิลป์)
+# Lamai, Piyada Damroungsil
