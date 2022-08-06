@@ -1,5 +1,5 @@
 # Lamai, Piyada Damroungsil
-+ [MLOps Genius](cert/2022-08-06_MLOps-Genius.pdf) - August 6, 2022
++ [MLOps Genius](cert/2022-08-06_MLOps-Genius.png) - August 6, 2022
 + [Export Import](cert/2022-07-26_TPQi-Export-Import.pdf) - July 26, 2022
 + [Sustainability](cert/2022-06-28_TPQi-Sustainability.pdf) - June 28, 2022
 + [Digital Marketing Strategy](cert/2022-06-27_TPQi-Digital-Marketing-Strategy.pdf) - June 27, 2022
