@@ -2,6 +2,7 @@
 
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 
++ [OPSWAT Secure Storage Associate](cert/2022-08-08_OSSA.png) - August 8, 2022
 + [OPSWAT Email Security Associate](cert/2022-08-07_OESA.png) - August 7, 2022
 + [OPSWAT Endpoint Compliance Associate](cert/2022-08-07_OECA.png) - August 7, 2022
 + [MLOps Genius](cert/2022-08-06_MLOps-Genius.png) - August 6, 2022
