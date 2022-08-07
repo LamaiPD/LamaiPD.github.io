@@ -1,4 +1,7 @@
 # Lamai, Piyada Damroungsil
+
++ [Credly](https://www.credly.com/users/piyada/badges)
+
 + [MLOps Genius](cert/2022-08-06_MLOps-Genius.png) - August 6, 2022
 + [Export Import](cert/2022-07-26_TPQi-Export-Import.png) - July 26, 2022
 + [Sustainability](cert/2022-06-28_TPQi-Sustainability.png) - June 28, 2022
