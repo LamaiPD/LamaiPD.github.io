@@ -2,6 +2,7 @@
 
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 
++ [OPSWAT Network Security Associate](cert/2022-08-08_ONSA.png) - August 8, 2022
 + [OPSWAT Web Traffic Protection Associate](cert/2022-08-07_OWPA.png) - August 7, 2022
 + [OPSWAT Data Transfer Security Associate](cert/2022-08-07_ODSA.png) - August 7, 2022
 + [OPSWAT Secure Storage Associate](cert/2022-08-07_OSSA.png) - August 7, 2022
