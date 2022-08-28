@@ -1,6 +1,7 @@
 # Lamai, Piyada Damroungsil
 
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
+[ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 
 + [DIGI - Data Storytelling](cert/2022-08-28_Data-Storytelling.png) - August 28, 2022
 + [DIGI - Machine Readable Data](cert/2022-08-28_Machine-Readable.png) - August 28, 2022
