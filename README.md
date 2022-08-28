@@ -2,7 +2,8 @@
 
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 
-+ [DIGI - Machine Readable Data](cert/2022-08-28_Machine-Readable.pdf) - August 28, 2022
++ [DIGI - Data Storytelling](cert/2022-08-28_Data-Storytelling.png) - August 28, 2022
++ [DIGI - Machine Readable Data](cert/2022-08-28_Machine-Readable.png) - August 28, 2022
 + [OPSWAT File Security Associate](cert/2022-08-11_OFSA.png) - August 11, 2022
 + [OPSWAT Network Security Associate](cert/2022-08-08_ONSA.png) - August 8, 2022
 + [OPSWAT Web Traffic Protection Associate](cert/2022-08-07_OWPA.png) - August 7, 2022
