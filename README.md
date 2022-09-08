@@ -4,6 +4,7 @@
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 
 + [STOU - Cybersecurity and Digital Literacy](cert/2022-09-06_Cybersecurity-n-Digital-Literacy.png) - September 6, 2022
++ [TNI - Agile Thinking](cert/2022-09-03_Agile-Thinking.png) - September 3, 2022
 + [DIGI - Data Storytelling](cert/2022-08-28_Data-Storytelling.png) - August 28, 2022
 + [DIGI - Machine Readable Data](cert/2022-08-28_Machine-Readable.png) - August 28, 2022
 + [OPSWAT File Security Associate](cert/2022-08-11_OFSA.png) - August 11, 2022
