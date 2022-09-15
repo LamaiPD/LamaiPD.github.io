@@ -3,6 +3,7 @@
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 
++ [SANS - Credential Attacks](cert/2022-09-14_SANS-Credential-Attack.png) - September 14, 2022
 + [STOU - Cybersecurity and Digital Literacy](cert/2022-09-06_Cybersecurity-n-Digital-Literacy.png) - September 6, 2022
 + [TNI - Agile Thinking](cert/2022-09-03_Agile-Thinking.png) - September 3, 2022
 + [DIGI - Data Storytelling](cert/2022-08-28_Data-Storytelling.png) - August 28, 2022
