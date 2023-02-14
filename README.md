@@ -3,6 +3,7 @@
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 
++ [Real Business Privacy Protection](cert/2023-02-09_PDPA-MB-Solutions.png) - February 9, 2023
 + [Microsoft Defender for Cloud Ninja](cert/2023-01-31_Microsoft-Defender-for-Cloud.png) - January 31, 2023
 + [Digital Detective Year 2](cert/2023-01-27_Digital-Detective-Y2.png) - January 27, 2023
 + [NCSA - Basic Cybersecurity](cert/2022-10-20_NCSA-Basic-Cybersecurity.png) - October 20, 2022
