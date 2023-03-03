@@ -34,4 +34,4 @@
 + [Product Photography](cert/2022-06-22_TPQi-Product-Photography.png) - June 22, 2022
 + [Photography Lighting Techniques](cert/2022-06-21_TPQi-Photography-Lighting-Techniques.png) - June 21, 2022
 
-# Piyada Damroungsil | ปิยดา ดำรงศิลป์
+### | Piyada Damroungsil | ปิยดา ดำรงศิลป์ |
