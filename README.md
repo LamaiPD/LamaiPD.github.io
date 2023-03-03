@@ -33,3 +33,5 @@
 + [Digital Literacy L2](cert/2022-06-24_TPQi-Digital-Literacy-L2.png) - June 24, 2022
 + [Product Photography](cert/2022-06-22_TPQi-Product-Photography.png) - June 22, 2022
 + [Photography Lighting Techniques](cert/2022-06-21_TPQi-Photography-Lighting-Techniques.png) - June 21, 2022
+
+# Piyada Damroungsil | ปิยดา ดำรงศิลป์
