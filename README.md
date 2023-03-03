@@ -3,6 +3,7 @@
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 
++ [Introduction to Mendeley](cert/2023-03-03_Intro-Scopus-Mendeley-Research.png) - March 3, 2023
 + [Basic Cybersecurity](cert/2023-02-27_Basic-Cybersecurity.jpg) - February 27, 2023
 + [Real Business Privacy Protection](cert/2023-02-09_PDPA-MB-Solutions.png) - February 9, 2023
 + [Microsoft Defender for Cloud Ninja](cert/2023-01-31_Microsoft-Defender-for-Cloud.png) - January 31, 2023
