@@ -2,6 +2,7 @@
 
 [ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
+[ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a> ]
 
 + [Introduction Scopus to Mendeley](cert/2023-03-03_Intro-Scopus-Mendeley-Research.png) - March 3, 2023
 + [Basic Cybersecurity](cert/2023-02-27_Basic-Cybersecurity.jpg) - February 27, 2023
