@@ -4,6 +4,8 @@
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a> ]
 
++ [Deep Learning w/ TensorFlow](cert/2023-03-24_Deep-Learning-w-TensorFlow.png) - March 24, 2023
++ [Ramkhamhaeng U. - GEM](cert/2023-03-18_GEM.png) - March 18, 2023
 + [Introduction Scopus to Mendeley](cert/2023-03-03_Intro-Scopus-Mendeley-Research.png) - March 3, 2023
 + [Basic Cybersecurity](cert/2023-02-27_Basic-Cybersecurity.jpg) - February 27, 2023
 + [Real Business Privacy Protection](cert/2023-02-09_PDPA-MB-Solutions.png) - February 9, 2023
