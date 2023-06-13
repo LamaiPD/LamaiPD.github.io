@@ -5,7 +5,7 @@
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
-+ [Prompt Design with Bard AI](cert/2023-06-13_Prompt-Design-with-Bard-AI.pdf) - June 13, 2023
++ [Prompt Design with Bard AI](cert/2023-06-13_Prompt-Design-with-Bard-AI.png) - June 13, 2023
 + [Deep Learning w/ TensorFlow](cert/2023-03-24_Deep-Learning-w-TensorFlow.png) - March 24, 2023
 + [Ramkhamhaeng U. - GEM](cert/2023-03-18_GEM-RU.png) - March 18, 2023
 + [Introduction Scopus to Mendeley](cert/2023-03-03_Intro-Scopus-Mendeley-Research.png) - March 3, 2023
