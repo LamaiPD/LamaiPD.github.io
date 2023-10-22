@@ -1,6 +1,6 @@
 # Lamai, Piyada Damroungsil
 
-[ <b><a href="https://www.credly.com/users/piyada/badges" target="_blank">Credly</a></b> ]
+[ <b><a href="https://www.credly.com/users/piyada/badges?sort=-state_updated_at&page=1" target="_blank">Credly</a></b> ]
 [ <b><a href="https://twitter.com/LamaiPD" target="_blank">Twitter</a></b> ]
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
