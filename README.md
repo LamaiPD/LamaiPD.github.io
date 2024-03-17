@@ -5,6 +5,7 @@
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
++ [Soft Power for HR Strategy](cert/2024-03-16_Soft-Power.png) - Mar 16, 2024
 + [AI for All](cert/2024-02-25_AI-for-All.png) - Feb 25, 2024
 + [Coding for Data Science](cert/2024-01-07_Coding-for-Data-Sci.png) - Jan 7, 2024
 + [Cloud Computing Security](cert/2024-01-07_FedVTE-Cloud-Computing-Security.png) - Jan 7, 2024
