@@ -5,7 +5,7 @@
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
-+ [Gemini](cert/2024-03-28_Gemini.png) - Mar 28, 2024
++ [Gemini LINE Bot](cert/2024-03-28_Gemini.png) - Mar 28, 2024
 + [Carbon Accounting](cert/2024-03-23_Carbon-Accounting-n-Business-Sustainability.png) - Mar 23, 2024
 + [PowerPoint](cert/2024-03-21_PPT.png) - Mar 21, 2024
 + [Soft Power for HR Strategy](cert/2024-03-16_Soft-Power.png) - Mar 16, 2024
