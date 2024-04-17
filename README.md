@@ -5,6 +5,7 @@
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
++ [IEEE: Educating for the Future](cert/2024-04-17_IEEE-Educating-for-the-Future.png) - Apr 17, 2024
 + [Competencies-based Learning](cert/2024-04-11_Competencies-based-Leaning.png) - Apr 11, 2024
 + [Gemini LINE Bot](cert/2024-03-28_Gemini.png) - Mar 28, 2024
 + [Carbon Accounting](cert/2024-03-23_Carbon-Accounting-n-Business-Sustainability.png) - Mar 23, 2024
