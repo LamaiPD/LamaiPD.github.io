@@ -6,7 +6,7 @@
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
 + [Growth Mindset](cert/2024-05-30_Growth-Mindset.png) - May 30, 2024
-+ [Cross Border E-Commerce](cert/2024-05-29_Cross-Border-E-Commerce.png) - May 29, 2024
++ [Cross-Border E-Commerce](cert/2024-05-29_Cross-Border-E-Commerce.png) - May 29, 2024
 + [CUVIP - Coding in Digital Era](cert/2024-05-28_CUVIP-Coding.png) - May 28, 2024
 + [IEEE: Educating for the Future](cert/2024-04-17_IEEE-Educating-for-the-Future.png) - Apr 17, 2024
 + [Competencies-based Learning](cert/2024-04-11_Competencies-based-Leaning.png) - Apr 11, 2024
