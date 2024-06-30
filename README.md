@@ -5,6 +5,7 @@
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
++ [AI for ALL](cert/2024-06-09_AI-for-ALL.png) - June 9, 2024
 + [Growth Mindset](cert/2024-05-30_Growth-Mindset.png) - May 30, 2024
 + [Cross-Border E-Commerce](cert/2024-05-29_Cross-Border-E-Commerce.png) - May 29, 2024
 + [CUVIP - Coding in Digital Era](cert/2024-05-28_CUVIP-Coding.png) - May 28, 2024
