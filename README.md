@@ -5,6 +5,7 @@
 [ <b><a href="https://g.dev/Lamai" target="_blank">g.dev/Lamai</a></b> ]
 [ <b><a href="https://learn.microsoft.com/en-gb/users/piyada/">Microsoft Learn</a></b>]
 
++ [Safety Supervisor ](cert/2026-07-15_Safety-Supervisor.pdf) - July 15, 2026
 + [AI for ALL](cert/2024-06-09_AI-for-ALL.png) - June 9, 2024
 + [Growth Mindset](cert/2024-05-30_Growth-Mindset.png) - May 30, 2024
 + [Cross-Border E-Commerce](cert/2024-05-29_Cross-Border-E-Commerce.png) - May 29, 2024
