@@ -7,6 +7,8 @@
 
 + [Safety Supervisor](cert/2026-07-15_Safety-Supervisor.png) - July 15, 2026
 + [Certified Cybersecurity Educator Professional (CCEP)](cert/2025-12-26_CCEP.png) - December 26, 2025
++ [AI for ALL](cert/2024-10-01_AI-for-ALL.png) - October 1, 2024
++ [Food & Dring - Fat Avoidance](cert/2024-07-13_Fat.png) - July 13, 2024
 + [AI for ALL](cert/2024-06-09_AI-for-ALL.png) - June 9, 2024
 + [Growth Mindset](cert/2024-05-30_Growth-Mindset.png) - May 30, 2024
 + [Cross-Border E-Commerce](cert/2024-05-29_Cross-Border-E-Commerce.png) - May 29, 2024
